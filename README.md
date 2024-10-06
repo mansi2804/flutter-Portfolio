@@ -117,19 +117,6 @@ Although not mandatory, it's highly recommended that you define more than one cu
 
 Since the page is static, functional testing is unnecessary. We will evaluate your submission by compiling and running it in a supported Flutter platform (e.g., MacOS, iOS, Android, or web) and visually inspecting the displayed page. We will view the page in a window of at least 1024x768 pixels, so ensure that your layout is legible at that size and has no overflow issues (scrolling is acceptable if needed).
 
-## 5. Grading
-
-This machine problem is worth 28 points, broken down as follows:
-
-- 4 points: A completed `REPORT.md` file with the required information. **Without this we will not evaluate your submission!**
-
-- 8 points: The page layout complies with the specified requirements, and all information is displayed legibly.
-
-- 8 points: Your code structure effectively separates layout from data, involving the use of data model classes and avoiding hardcoding user data within widget implementations.
-
-- 8 points: Your code is well-structured, easy to read, and employs the required widgets and widget structures effectively.
-
-**If your code does not build, you will receive a zero for the assignment.**
 
 ## 6. Hints / Tips
 
