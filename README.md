@@ -19,11 +19,6 @@ The layout and content of the profile page are open to your creative interpretat
 - Utilize at least one nested row/column widget, where each nested widget contains a minimum of two children.
 
 
-
-Here's a version with blue lines to indicate rows/columns/grids present in the layout.
-
-![Example profile page with layout](assets/images/mp1-mockup-layout.jpg)
-
 ## 3. Implementation details / requirements
 
 ### 3.1. Project setup
