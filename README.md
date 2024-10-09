@@ -9,7 +9,7 @@ The primary objective of this MP is to provide you with an opportunity to experi
 ## 2. Specifications
 
 When executed, your application should display a single scrollable screen containing static user information organized into multiple visually distinct sections. These sections should align with the theme of the hypothetical social networking application. For instance, a professional networking app might feature sections like "Contact," "Education," and "Projects," while a dating app could include "About Me," "Interests," and "My Photos."
-
+ 
 The layout and content of the profile page are open to your creative interpretation, but it must adhere to the following requirements:
 
 - Include a minimum of four distinct sections, with each section visually distinguished using nesting, padding, background colors, or similar techniques.
