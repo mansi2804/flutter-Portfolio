@@ -5,7 +5,7 @@
 For this machine problem you will create a single-screen application that presents a "profile information" page for a user, either yourself or a fictional character, in a hypothetical social networking application. Examples of such apps include professional networking and dating apps.
 
 The primary objective of this MP is to provide you with an opportunity to experiment with various display and layout widgets available in the Flutter framework. Additionally, you should focus on structuring your code in a way that promotes reusability and maintainability.
-
+ 
 ## 2. Specifications
 
 When executed, your application should display a single scrollable screen containing static user information organized into multiple visually distinct sections. These sections should align with the theme of the hypothetical social networking application. For instance, a professional networking app might feature sections like "Contact," "Education," and "Projects," while a dating app could include "About Me," "Interests," and "My Photos."
