@@ -112,7 +112,7 @@ Although not mandatory, it's highly recommended that you define more than one cu
 
 Since the page is static, functional testing is unnecessary. We will evaluate your submission by compiling and running it in a supported Flutter platform (e.g., MacOS, iOS, Android, or web) and visually inspecting the displayed page. We will view the page in a window of at least 1024x768 pixels, so ensure that your layout is legible at that size and has no overflow issues (scrolling is acceptable if needed).
 
-
+ 
 ## 6. Hints / Tips
 
 - Refer to the "[Layout](https://docs.flutter.dev/ui/layout)" section and "[Building Layouts](https://docs.flutter.dev/ui/layout/tutorial)" tutorial for valuable insights into using various layout widgets.
