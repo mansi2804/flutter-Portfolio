@@ -1,7 +1,5 @@
 # MP Report
 
-## Team
-
 - Name(s): Mansi Patil
 
 
