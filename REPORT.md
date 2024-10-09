@@ -1,6 +1,6 @@
 # MP Report
 
-- Name(s): Mansi Patil
+- Name: Mansi Patil
 
 
 ## Self-Evaluation Checklist
