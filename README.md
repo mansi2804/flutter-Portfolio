@@ -17,7 +17,7 @@ The layout and content of the profile page are open to your creative interpretat
 - Incorporate at least three images.
 
 - Utilize at least one nested row/column widget, where each nested widget contains a minimum of two children.
-
+ 
 
 ## 3. Implementation details / requirements
 
