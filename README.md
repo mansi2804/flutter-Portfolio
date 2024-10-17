@@ -43,4 +43,4 @@ flutter pub get
 Run the app on a simulator or connected device:</br>
 flutter run
 
-
+####Thank you for checking out this project! 😊 ####
