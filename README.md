@@ -1,4 +1,4 @@
-# CS 442 MP2: Profile Page
+ Profile Page
 
 ## Overview
 
