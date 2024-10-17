@@ -17,3 +17,30 @@ This project is a single-screen application that presents a "profile information
 - Each section is visually distinct using padding, background colors, and nesting techniques.
 - Utilizes various Flutter widgets, including `AppBar`, `Column`, `Row`, `Container`, `Image`, `ListView`, `Scaffold`, and `Text`.
 
+## Project Structure
+
+lib/ ├── main.dart # Entry point of the application ├── models/ # Contains user data model classes ├── views/ # Contains UI components for the profile page └── assets/ └── images/ # Directory for storing images
+
+
+## How to Run the Project
+
+### Prerequisites
+
+- Install Flutter on your machine. Follow the instructions on the [Flutter installation page](https://flutter.dev/docs/get-started/install).
+
+### Clone the Repository
+
+git clone <repository-url>
+
+Navigate to the Project Directory
+cd profile-page
+
+Run the App
+
+Get the dependencies:
+flutter pub get
+
+Run the app on a simulator or connected device:
+flutter run
+
+
