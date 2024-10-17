@@ -32,15 +32,15 @@ lib/ ├── main.dart # Entry point of the application ├── models/ # Co
 
 git clone <repository-url>
 
-Navigate to the Project Directory
+Navigate to the Project Directory</br>
 cd profile-page
 
 Run the App
 
-Get the dependencies:
+Get the dependencies:</br>
 flutter pub get
 
-Run the app on a simulator or connected device:
+Run the app on a simulator or connected device:</br>
 flutter run
 
 
