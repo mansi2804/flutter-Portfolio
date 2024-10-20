@@ -9,7 +9,7 @@ void main() {
     phone: '(872) 664-2098',
     email: 'mpatil6@hawk.iit.edu',
     address1: '3420 s cottage, LM',
-    address2: 'Chicago, IL 60616',
+    address2: 'Chicago, IL 60616', 
   );
 
   userInfo.addEducation(
