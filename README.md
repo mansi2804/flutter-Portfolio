@@ -1,6 +1,6 @@
  Profile Page
 
-## Overview
+## Overview 
 
 This project is a single-screen application that presents a "profile information" page for a user, developed as part of the CS 442 coursework. The application simulates a hypothetical social networking platform, showcasing user details in an organized and visually distinct layout. 
 
