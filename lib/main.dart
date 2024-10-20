@@ -10,7 +10,7 @@ void main() {
     email: 'mpatil6@hawk.iit.edu',
     address1: '3420 s cottage, LM',
     address2: 'Chicago, IL 60616', 
-  );
+  ); 
 
   userInfo.addEducation(
     logo: 'assets/images/iitlogo.jpg',
