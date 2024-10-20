@@ -4,7 +4,7 @@
 
 This project is a single-screen application that presents a "profile information" page for a user, developed as part of the CS 442 coursework. The application simulates a hypothetical social networking platform, showcasing user details in an organized and visually distinct layout. 
 
-## Features 
+## Features  
 
 - **User Profile Display:** Presents user information such as name, position, company, contact details, and education.
 - **Multiple Sections:** The profile page is divided into sections like "Contact," "Education," "Projects," and more.
