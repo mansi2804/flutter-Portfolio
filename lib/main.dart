@@ -17,7 +17,7 @@ void main() {
     name: 'Illinois Institute of Technology',
     gpa: 3.66,
     degree: 'MS in CS',
-  );
+  ); 
   userInfo.addEducation(
     logo: 'assets/images/unilogo.jpeg',
     name: 'Universal College',
