@@ -24,7 +24,7 @@ void main() {
     gpa: 4.0,
     degree: 'BE in CS',
   );
-
+ 
   userInfo.addProject(ProjectInfo(
     name: 'UI/UX Design',
     description: 'Developed UI/UX design for shopping app using Figma.',
